@@ -1,11 +1,11 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promoviod pela Rocketseat para ensino de tecnologia WEB.
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia WEB.
 <br/>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
 ## Tecnologias
